@@ -1,7 +1,7 @@
 
 Team Member 1: Derek Teixeira							
 Team Member 2: Jigar Makwana
-Team Member 3: Pranav Balachandran M
+
 
 
 Files Submitted: Phase5Client.py	Client side for the phase 5
