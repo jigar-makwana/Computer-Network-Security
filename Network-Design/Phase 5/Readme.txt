@@ -19,12 +19,12 @@ Execution of program in Linux lab:
 
 		1. Make sure that all the files are in the same directory
 		2. Open up 2 cmd in the same directory as your files are or just change the directory using "cd.." 
-			Start the client file first by enterting in:  python2 Phase5Client.py      into the first cmd prompt
+			Start the client file first by enterting in:  python2 receiver.py 1      into the first cmd prompt
 			Wait for cmd to say "Listening..."
 	
 		
 		4. Once the Client is running Open the Phase5Server.py in a seperate cmd prompt.
-			This is done by typing in:  python2 Phase5Server.py
+			This is done by typing in:  python2 server.py
 			The server will now be waiting.
 			
 		5. Now go back to the client cmd promt and...
